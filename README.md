@@ -47,7 +47,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html/css.org/">Html/css</a></li>
   </ul>
 </details>
 
@@ -180,4 +180,9 @@ I would like to thank Microverse and the entire team including my fellow microna
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<a name="readme-top"></a>
+
